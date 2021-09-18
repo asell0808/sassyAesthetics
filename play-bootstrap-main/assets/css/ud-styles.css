@@ -193,6 +193,10 @@ p {
 }
 
 /* ===== Header CSS ===== */
+#sassyLogo{
+  width: 160%;
+}
+
 .ud-header {
   position: absolute;
   top: 0;
@@ -779,6 +783,18 @@ p {
 }
 
 /* ===== About CSS ===== */
+
+#socialAbout{
+position: relative;
+left: 16px;
+}
+
+
+#deposit{
+  color: var(--white);
+  margin-bottom: 16px;
+}
+
 .ud-about {
   background: #f3f4fe;
   padding: 120px 0;

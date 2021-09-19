@@ -655,7 +655,12 @@ p {
   right: -20px;
 }
 
-/* ===== Features CSS ===== */
+/* ===== Services CSS ===== */
+
+.servicesImg{
+  width: 75%;
+}
+
 .ud-features {
   padding-top: 120px;
   padding-bottom: 90px;
@@ -886,6 +891,7 @@ left: 16px;
 }
 
 /* ===== Pricing CSS ===== */
+
 .ud-pricing {
   padding-top: 120px;
   padding-bottom: 90px;

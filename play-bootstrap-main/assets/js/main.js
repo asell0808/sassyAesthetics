@@ -15,9 +15,9 @@
 
     // === logo change
     if (ud_header.classList.contains("sticky")) {
-      logo.src = "assets/images/logo/logo-2.svg";
+      logo.src = "assets/images/logo/shelbyLogoNavTransparent.png";
     } else {
-      logo.src = "assets/images/logo/logo.svg";
+      logo.src = "assets/images/logo/shelbyLogo.png";
     }
 
     // show or hide the back-top-top button
@@ -32,7 +32,7 @@
     }
   };
 
-  //===== close navbar-collapse when a  clicked
+  //===== close navbar-collapse when a clicked
   let navbarToggler = document.querySelector(".navbar-toggler");
   const navbarCollapse = document.querySelector(".navbar-collapse");
 
